@@ -1,0 +1,4 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "骚哥的博客"
+theme = "hermit"
